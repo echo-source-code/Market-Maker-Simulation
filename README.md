@@ -155,3 +155,5 @@ so small differences between them are sampling noise.
 
 Avellaneda, M. and Stoikov, S. (2008). High-frequency trading in a limit order
 book. Quantitative Finance, 8(3), 217-224.
+
+-Developed with AI assistance (Claude); results reproduced and checked by me
